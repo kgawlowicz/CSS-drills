@@ -1,0 +1,29 @@
+a { 
+    font-style: none;
+    color: white;
+}
+
+a:hover{
+    font-weight: 1500;
+    color: lime;
+}
+
+body {
+    font-family: "Times New Roman", Times, serif;
+    background-color: lightgray;
+}
+
+
+h2, p, .readme-wrapper {
+    text-align: center;
+}
+
+/* #box1 {
+
+}
+
+.boxes {
+
+} */
+
+
