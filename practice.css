@@ -49,3 +49,29 @@ h2, p, .readme-wrapper {
 #box1 {
     text-align: left;
 }
+
+.box {
+    height: 10em;
+    width: 10em;
+}
+
+.red {
+    background: red;
+}
+
+.blue {
+    background: blue;
+}
+
+.green {
+    background: green;
+}
+
+.purple {
+    background: purple;
+}
+
+.border-yellow {
+    border: 5px solid goldenrod;
+    box-sizing: border-box;
+}
