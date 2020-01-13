@@ -17,7 +17,33 @@ a:hover {
     font-weight: bold;
     color: darkcyan;
 }
+
 span {
     font-weight: 900;
     color: darksalmon;
+}
+
+.boxes {
+    margin: 1em;
+    padding: 1em;
+    border-style: solid;
+    border-color: darkviolet;
+    border-radius: 3em;
+    width: 30em;
+}
+
+#box1 {
+    background-color: deeppink;
+}
+
+#box2 {
+    background-color: forestgreen;
+}
+
+#box3 {
+    background-color: rgb(71, 34, 139);
+}
+
+#box4 {
+    background-color: rgb(128, 139, 34);
 }
