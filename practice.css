@@ -1,0 +1,51 @@
+/* Syntax for selector types
+Elements (no prefix)
+Classes (.)
+ID's (#)
+Attributes ([])
+
+CLASS selector */
+
+.text-center {
+    text-align: center;
+}
+
+.text-blue {
+    color: blue;
+}
+
+.text-left {
+    text-align: left;
+}
+
+.boxes {
+    text-align: right;
+}
+
+
+/* Element selector */
+a { 
+    font-style: none;
+    color: blue;
+    text-decoration: none;  
+}
+
+a:hover{
+    font-weight: 1500;
+    color: lime;
+}
+
+body {
+    font-family: "Times New Roman", Times, serif;
+    background-color: lightgray;
+}
+
+
+h2, p, .readme-wrapper {
+    text-align: center;
+}
+
+/* ID selector */
+#box1 {
+    text-align: left;
+}
